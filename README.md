@@ -22,8 +22,7 @@ I'm a Master's student in Computer Science & Machine Learning at [Technische Uni
 - **Radar Odometry & Ego-Motion Estimation**  
   Developing ROS2 and C++ pipelines for ego-motion and pose estimation using 4D radar point clouds, tailored for autonomous racing scenarios at speeds exceeding 280 km/h.
 
-- **Continual Learning with LMMs & LLMs**  
-  Investigating methods to understand and prevent catastrophic forgetting in large multimodal and language models.
+- **Continual Pretraining with LMMs & LLMs**  
 
 - **Physics‑Informed ML & Differentiable Simulation**  
   Implementing differential physics, probabilistic learning, and numerical solvers for scientific machine learning applications.
