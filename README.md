@@ -29,7 +29,7 @@ I'm a Master's student in Computer Science & Machine Learning at [Technische Uni
 
 - **Radar Deep Learning for Space Debris Detection**  
   Built a satellite-mounted radar system using deep learning to detect space debris.  
-  👉 [Repo radar_deep_learning_space_debris]([https://github.com/oscarbreiner/space-debris-radar](https://github.com/oscarbreiner/Deep-Learning-Based-Space-Debris-Classification.git))
+  👉 [Repo radar_deep_learning_space_debris](https://github.com/oscarbreiner/Deep-Learning-Based-Space-Debris-Classification.git)
 
 ---
 
