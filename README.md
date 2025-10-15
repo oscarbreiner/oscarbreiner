@@ -1,35 +1,34 @@
 # Machine Learning Engineer Reporting for Duty
 
-I'm a Master's student in Computer Science & Machine Learning at [Technische Universität München (TUM)](https://www.tum.de/), based in Munich. I work at the intersection of robotics, autonomous driving, and scientific machine learning.
+M.Sc. Informatics student at [Technical University of Munich (TUM)](https://www.tum.de/), working at the intersection of **machine learning, robotics, and scientific computing**.  
+My research revolves around **3D perception, multimodality, and physics-informed learning** — spanning autonomous driving, space applications, and computer vision.
 
 ---
 
 ## 💼 Experience
 
-- **Research Assistant, FTM Institute of Automotive Technology, TUM**  
-  Working on radar-based odometry and vehicle perception for autonomous racing / autonomous driving.
+- **Machine Learning Engineer, BMW Group**  
+  Developing and deploying multimodal machine learning solutions.  
+  Building scalable ML-Ops infrastructures on AWS SageMaker.
 
-- **Working Student, BMW Group**  
-  Designing and developing machine learning solutions for multi-modality use-cases. 
+- **Machine Learning Team Lead, [WARR DEDRA Science Group](https://warr.de/de/projekte/move/)**  
+  Leading a team developing **physics-informed machine learning** models for **space debris impact analysis**.  
+  Contributed to a **satellite mission launched in 2024** and ongoing analysis of ion-based impact data.
 
-- **Machine Learning Team Lead, [WARR DEDRA](https://warr.de/de/projekte/move/)**  
-  Leading a student team in developing AI-driven solutions—such as satellite-mounted radar-based space debris detection—for the WARR student engineering association.
+- **Research Assistant, TUM Autonomous Motorsport (Chair of Automotive Technology, FTM)**  
+  Working on **4D radar and 3D LiDAR perception** for **ego-motion estimation** and **radar-only odometry** in autonomous racing at >280 km/h.
 
----
+- **Research Internship, Computer Vision Lab (Prof. Daniel Cremers, TUM)**  
+  Exploring **multimodality model merging** across text, vision (video), and sound modalities.
 
-## 💻 Selected Projects
+- **Research Internship, Machine Learning Lab (Prof. Stephan Günnemann, TUM)**  
+  Investigating **graph neural networks** and **uncertainty quantification**,  
+  see [Uncertainty-Quantification-on-GNN-using-Stochastic-Centering](https://github.com/oscarbreiner/Uncertainty-Quantification-on-GNN-using-Stochastic-Centering).  
+  Additionally, I wrote a seminar paper reviewing **Vision Transformers** focussing on robustness and architectural tradeoffs,
+  see [Review on Vision Transformers: Limitations and Advancements](https://github.com/oscarbreiner/Review-on-Vision-Transformers).
 
-- **Radar Odometry & Ego-Motion Estimation**  
-  Developing ROS2 and C++ pipelines for ego-motion and pose estimation using 4D radar point clouds, tailored for autonomous racing scenarios at speeds exceeding 280 km/h.
-
-- **Continual Pretraining with LMMs & LLMs**  
-
-- **Physics‑Informed ML & Differentiable Simulation**  
-  Implementing differential physics, probabilistic learning, and numerical solvers for scientific machine learning applications.
-
-- **Radar Deep Learning for Space Debris Detection**  
-  Built a satellite-mounted radar system using deep learning to detect space debris.  
-  👉 [Repo radar_deep_learning_space_debris](https://github.com/oscarbreiner/Deep-Learning-Based-Space-Debris-Classification.git)
+- **Bachlor Thesis, Radar Deep Learning for Space Debris Detection**  
+  Built a satellite-mounted radar system using deep learning to detect space debris, see [Repo radar_deep_learning_space_debris](https://github.com/oscarbreiner/Deep-Learning-Based-Space-Debris-Classification.git).
 
 ---
 
