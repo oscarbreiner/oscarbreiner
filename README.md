@@ -22,9 +22,9 @@ with focus on **3D perception** and **physics-informed learning** across domains
   Developing **4D radar-only odometry** and **3D LiDAR perception** for autonomous racing at speeds > 250 km/h.  
   Achieved **state-of-the-art results** beyond current benchmarks; preparing for **publication in 2026** and competing at the **Autonomous Racing League (A2RL)**.
 
-- **Research Intern - Computer Vision Lab (Prof. Daniel Cremers, TUM)**  
+- **Research Assistant - MuMol Group (Dr. Almut Sophia Koepke, TUM)**  
   Conducted research on **multimodal model merging** using **subspace parameter compression**,  
-  achieving **state-of-the-art performance with reduced compute**. Publication planned for 2026.
+  achieving **competitive performance with reduced compute**.
 
 - **Machine Learning Engineer - BMW Group**  
   Designing and deploying **multimodal ML models** that improve perception and simulation performance.  
