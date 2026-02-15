@@ -11,7 +11,7 @@ M.Sc. Informatics @ TUM · Munich, Germany
 
 **Theory-first when it matters. System-first when it counts.**  
 
-I work on **perception + embodied AI**, focusing on **radar/LiDAR**, **SLAM & odometry**, **3D reconstruction**, and **efficient multimodal model merging**.
+I work on perception and embodied AI, bridging theory-driven ML research with system-constrained engineering for real-world robotics and autonomy.
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/049434b2-e851-41bd-97b3-2e7a18ea1efb" height="220" />
