@@ -7,9 +7,17 @@
 Research • Engineering • Machine Learning  
 M.Sc. Informatics @ TUM · Munich, Germany
 
+🏆 Part of the **A2RL Autonomous Racing World Champion Team (2025)**
+
 **Theory-first when it matters. System-first when it counts.**  
 
 I work on **perception + embodied AI**, focusing on **radar/LiDAR**, **SLAM & odometry**, **3D reconstruction**, and **efficient multimodal model merging**.
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/049434b2-e851-41bd-97b3-2e7a18ea1efb" height="220" />
+  <img src="https://github.com/user-attachments/assets/5f9c2fb7-4c1e-40cd-8ed7-b477ec44ba25" height="220" />
+</p>
+
 
 See my portfolio for details.
 
